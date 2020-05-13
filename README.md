@@ -1,4 +1,4 @@
-# vue-composition-firebase-app
+# PART ONE: VueJS with Composition API and Ionic Framework Components
 
 <div>
  <img src="https://raw.githubusercontent.com/aaronksaunders/vue-composition-firebase-app/master/vue-composition-firebase-app.png" width="90%" style="padding:10px">
@@ -11,7 +11,7 @@ We are going to use the new VueJS Composition API to seperate out Firebase integ
 See complete blog post 
 - https://dev.to/aaronksaunders/using-vue-composition-api-with-firebase-1oib
 
-Here the source code for part II
+### Here the source code for Part II
 - code https://github.com/aaronksaunders/vue-composition-firebase-app-2
 - blog https://dev.to/aaronksaunders/using-vue-composition-api-with-firebase-part-ii-25ki
 
